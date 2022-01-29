@@ -6,3 +6,34 @@
 </br>
 
 ###### An accurate, sorted and structured list/website of all notable musical genres.
+
+------------
+
+
+
+##### Layout
+```html
+    ┌ Type 1
+    ├ Genre 1
+    │      ├ subgenre 1
+    │      └ subgenre 2 ┐
+    │                   ├ microgenre 1
+    │                   └ microgenre 2
+    └ Genre 1
+             ├ subgenre 1
+             └ subgenre 2 ┐
+                          ├ microgenre 1
+                          └ microgenre 2
+     
+    ┌ Type 2
+    ├ Genre 1
+    │      ├ subgenre 1
+    │      └ subgenre 2 ┐
+    │                   ├ microgenre 1
+    │                   └ microgenre 2
+    └ Genre 1
+             ├ subgenre 1
+             └ subgenre 2 ┐
+                          ├ microgenre 1
+                          └ microgenre 2
+```
