@@ -8,11 +8,13 @@
 #### An accurate, sorted and structured list/website of all notable musical genres.
 
 ------------
+
 <br>
 <p align="center">
    <a href="https://discord.gg/ryy4fNfp3Y"><img src="https://img.shields.io/discord/759128343944757318?color=black&label=Discord&logo=Discord&logoColor=black&style=for-the-badge" /></a>
 </p>
 </br>
+
 ------------
 
 ##### Layout
@@ -22,23 +24,23 @@
     ├ Genre 1
     │      ├ subgenre 1
     │      └ subgenre 2 ┐
-    │                               ├ microgenre 1
-    │                               └ microgenre 2
+    │                   ├ microgenre 1
+    │                   └ microgenre 2
     └ Genre 1
              ├ subgenre 1
              └ subgenre 2 ┐
-                                    ├ microgenre 1
-                                    └ microgenre 2
+                          ├ microgenre 1
+                          └ microgenre 2
      
     ┌ Type 2
     ├ Genre 1
     │      ├ subgenre 1
     │      └ subgenre 2 ┐
-    │                             ├ microgenre 1
-    │                             └ microgenre 2
+    │                   ├ microgenre 1
+    │                   └ microgenre 2
     └ Genre 1
              ├ subgenre 1
              └ subgenre 2 ┐
-                                    ├ microgenre 1
-                                    └ microgenre 2
+                          ├ microgenre 1
+                          └ microgenre 2
 ```
